@@ -1,0 +1,66 @@
+{
+    "packageName": "net.hexage.defense",
+    "title": "Radiant Defense",
+    "description": "MILLIONS OF ALIENS WILL DIE! Radiant Defense is a tower defense game set in a vibrant universe invaded by countless alien hordes. Build your space fortress any way you wish, set up wide variety of weapons and traps and let the invasions begin!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "2.3.0",
+            "versionCode": "FIXME",
+            "uuid": "a023bd7e-41ee-4bfe-ae42-2a58232862a2",
+            "date": "2014-07-17T18:37:58Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_net.hexage.defense_2.3.0/Radiant%20Defense_2.3.0_net.hexage.defense.apk",
+            "size": 11048589,
+            "md5sum": "1bcd4db6048be40cf68188436cd4cffa",
+            "publicSize": 427572,
+            "nativeSize": 50320
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/xlcAYxXcRyOmA7qtlDrL",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/zEmDIa2oSNurMduHHr0x",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/zEmDIa2oSNurMduHHr0x"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eaiJ4CiTuisiOACI7xBL",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eaiJ4CiTuisiOACI7xBL"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ptKAX08RKm47NToWMAEw",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ptKAX08RKm47NToWMAEw"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y3E3BdvIReuvF5H831Qb",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y3E3BdvIReuvF5H831Qb"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-1313-4869-949f-fadd6aab4bdf",
+        "name": "Hexage",
+        "supportEmail": "support@hexage.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http://www.hexage.net/defense/",
+    "firstPublishedAt": "2014-07-17T18:37:58Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.79,
+        "count": 173
+    }
+}
